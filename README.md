@@ -15,26 +15,28 @@
     <li>I build things simples, easy to use and understand</li>
 </ul>
 <br>
-<table style="width: 100%; border-collapse: collapse; border: none;">
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="max-width: 50%;">
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=20909&format=png&color=000000" width="40" height="40">
     </td>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" style="max-width: 50%;">
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=21278&format=png&color=000000" width="40" height="40">
     </td>
-    <td style="text-align: center; padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="max-width: 50%;">
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=108784&format=png&color=000000" width="40" height="40">
     </td>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="max-width: 50%;">
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=13679&format=png&color=000000" width="40" height="40">
     </td>
-    <td style="text-align: center; padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=plPz67QUdeWA&format=png&color=000000" style="max-width: 50%;">
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=plPz67QUdeWA&format=png&color=000000" width="40" height="40">
     </td>
-    <td style="text-align: center; padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" style="max-width: 50%;">
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=QeIg9siFKGgp&format=png&color=000000" width="40" height="40">
     </td>
-    <td style="text-align: center; padding: 10px;">
-        <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" style="max-width: 50%;">
+    <td style="text-align: center; padding: 2px;">
+      <img src="https://img.icons8.com/?size=40&id=zfHRZ6i1Wg0U&format=png&color=000000" width="40" height="40">
     </td>
+  </tr>
 </table>
