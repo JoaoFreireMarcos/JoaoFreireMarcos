@@ -1,5 +1,5 @@
 <h2>Hi, I see u.</h2>
-<p>I´m Juve, studing programing.</p>
+<p>I´m Juve, Studying programming.</p>
 <br>
 <p>I work in all stuff, Front-End, and Back-End — Currently learning Python, Node, React, and Laravel.</p>
 <br>
