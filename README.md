@@ -3,7 +3,7 @@
 <br>
 <p>I work in all stuff, Front-End, and Back-End — Currently learning Python, Node, React, and Laravel.</p>
 <br>
-<p>My teachers is important plan my project, so I use Figma for UI/UX design, excalidraw for flowcharts and sketch ideas.</p>
+<p>My teachers tell me is important plan my project, so I use Figma for UI/UX design, excalidraw for flowcharts and sketch ideas.</p>
 <br>
 <p>Everything posted here consists of studies and small projects that I develop in my daily life. Therefore, the items posted here may be completed or in progress.</p>
 <br>
